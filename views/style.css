@@ -1,0 +1,34 @@
+body {
+    background-color: white;
+    
+}
+
+h1 {
+    color: red;
+    border-style: groove;
+    border-width: medium;
+    border-color: red;
+    font-family: "Verdana", Geneva, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: medium
+}
+
+p {
+    font-size: 25px;
+
+    font-family: "Verdana", Geneva, sans-serif;
+    text-align: center;
+}
+
+img1 {
+    height: 200px;
+    width: 500px;
+}
+
+#border-img1 {
+    border: groove;
+    padding: 20px;
+}
